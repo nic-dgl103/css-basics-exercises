@@ -3,7 +3,7 @@ This exercise was designed to help you understand this week's content. It is not
 
 1. Clone this repository onto your local computer.
 
-2. Add the following styles:
+2. In VS Code, add the following styles:
 * Link both HTML pages to the external stylesheet
 * Write an external style that uses the declaration below to change all the text on both HTML pages to a sans-serif font: <br/>
 `{ font-family: sans-serif; }`
